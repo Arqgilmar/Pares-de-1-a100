@@ -1,7 +1,7 @@
 # Pares no intervalo 🔴
 Este projeto solicita dois números, e apresenta os números pares que possuem nesse intervalo. No código foi utilizado a linguagem C. 
 
-[<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Calculadora.gif) 
+[<img height="400" src="img/pares-no-intervalo.gif">](https://github.com/Arqgilmar/Pares-no-intervalo/blob/main/img/pares-no-intervalo.gif) 
 
 
 ## ⚡ Linguagem usada
