@@ -1,10 +1,15 @@
 #include <stdio.h>
-
 int main(void) {
   
   int i = 0;
-
-  for (i = 1; i <=100; i++){
+  int n1, n2;
+  
+  printf("Digite um número:\n");
+  scanf("%d", &n1);
+  printf("Digite outro número:\n");
+  scanf("%d", &n2);
+  
+  for (i = n1; i <= n2; i++){
     if(i % 2 == 0){
       printf("%i\n", i);
     }
